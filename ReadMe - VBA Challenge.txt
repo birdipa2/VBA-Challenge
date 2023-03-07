@@ -1,4 +1,6 @@
 Stock Market Analysis VBA Script
+Please refer to VBA-Challenge.vbs file in the repository as the code required to analyze the given stock data.
+
 This VBA script analyzes stock market data for a given year and loops through all the worksheets in the workbook, calculating the yearly change, percentage change, and total volume for each stock in the data set. It also identifies the stocks with the greatest increase, decrease, and volume.
 
 Installation
