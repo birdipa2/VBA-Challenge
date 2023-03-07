@@ -1,7 +1,9 @@
 # VBA-Challenge (Module 2 Challenge)
 # Stock Market Analysis VBA Script
 
-Please refer to VBA-Challenge.vbs file in the repository as the code required to analyze the given stock data.
+This repository contains 6 files namely: ["VBA-Challenge.vbs","README.md","Multiple_year_stock_data.xlsm","Multiple Year Stock Data - 2020.JPG","Multiple Year Stock Data - 2019.JPG","Multiple Year Stock Data - 2018.JPG"]
+
+Please refer to VBA-Challenge.vbs file in this repository (VBA-Challenge) as the code required to analyze the given stock data. The '.JPG' files are the screenshots of the output for three different years after running the VBA Script on the given '.xlsm' file.
 
 This VBA script analyzes stock market data for a given year and loops through all the worksheets in the workbook, calculating the yearly change, percentage change, and total volume for each stock in the data set. It also identifies the stocks with the greatest increase, decrease, and volume.
 
